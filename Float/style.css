@@ -1,0 +1,25 @@
+#first{
+    width: 40%;
+    height: 40%;
+    border: 5px solid green;
+    float: right;
+    margin-left: 10px;
+}
+
+#second{
+    width: 40%;
+    height: 40%;
+    border: 5px solid yellow;
+    float: right;
+    margin-bottom: 10px;
+}
+
+
+#third{
+    width: 40%;
+    height: 40%;
+    border: 5px solid red;
+    margin-top: 10px;
+    clear: both;
+    word-wrap: break-word;
+}

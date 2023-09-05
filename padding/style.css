@@ -1,0 +1,10 @@
+p{
+  border: 10px solid red;
+  padding: 25px;
+}
+
+h1{
+    border: 9px solid springgreen;
+    border-radius: 5px; 
+    padding: 12px;
+}

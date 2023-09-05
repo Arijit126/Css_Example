@@ -1,0 +1,63 @@
+body{
+    font-family: 'Gill Sans';
+    margin: 0;
+    padding: 0;
+}
+
+
+.head{
+    border: 1px solid brown;
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(10, 53, 53);
+}
+
+.head h2{
+    font-size: 28px;
+    text-align: center;
+}
+
+.navi{
+    border: 2px solid blue;
+    background-color: #05542e;
+}
+
+.navi li{
+    list-style: none;
+    display: inline;
+}
+
+.navi a{
+    text-decoration: none;
+    color: greenyellow;
+    padding: 15px;
+    margin: 10px;
+}
+
+.navi a:hover{
+    background-color: red;
+    color: white;
+}
+
+.contents{
+    width: 97%;
+    height: 98%;
+    padding: 14px;
+    margin: 14px;
+    box-sizing: border-box;
+}
+
+.contents p{
+    font-size: 26px;
+}
+
+.footer{
+    margin-top: 260px;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+}
+
+.footer p{
+    font-size: 20px;
+}
